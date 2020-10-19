@@ -1,4 +1,4 @@
-# 234124-mtm-Python assigment
+# 234124-Introduction-to-System-Programming-C-aasignment
 ### THE PROJECT'S PRINCIPLES- 
   -Extract info from text via Python, reading and analyzing the text
 	
