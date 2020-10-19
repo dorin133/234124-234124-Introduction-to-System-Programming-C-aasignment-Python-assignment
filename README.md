@@ -1,4 +1,4 @@
-# 234124-Introduction-to-System-Programming-C-aasignment
+# 234124-Introduction-to-System-Programming-Python-aasignment
 ### THE PROJECT'S PRINCIPLES- 
   -Extract info from text via Python, reading and analyzing the text
 	
